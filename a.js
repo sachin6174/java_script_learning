@@ -23,3 +23,9 @@ console.log(interestRate1);
 let a=20;// will automatically fetch which type of variable it is 
 let b;
 console.log(a+100);
+
+//string concatination
+a="sachin ";
+b="kumar"
+window.alert(a+b);
+
