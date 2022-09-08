@@ -1,8 +1,8 @@
 
 //twitter cutting the string to a length
 
-let name= "sachin";
-let slicesstring=name.slice(0,1);
+let name1= "sachin";
+let slicesstring=name1.slice(0,1);
 console.log(slicesstring);
 console.log("sachin".slice(2,6));
 
